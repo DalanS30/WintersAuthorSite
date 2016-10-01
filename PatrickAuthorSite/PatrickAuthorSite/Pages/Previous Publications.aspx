@@ -3,13 +3,7 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <link href="../Styles/styledPanels.css" rel="stylesheet" />
     <link href="../Styles/worksStyles.css" rel="stylesheet" />
-    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
-    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-    <script>
-        $(function () {
-            $("#tabs").tabs();
-        });
-    </script>
+    
     <div class="row">
         <br />
         <br />

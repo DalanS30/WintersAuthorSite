@@ -127,43 +127,6 @@
     </form>
     <div class="footerDiv">
         &copy; <%: DateTime.Now.Year %> - Patrick Winters | 
-
-                <div class="btn-group dropup">
-                    <button type="button" class="btn btn-default btn-s dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        Click here to share this site!
-                        <span class="glyphicon glyphicon-arrow-up"></span>
-                        <span class="sr-only">Toggle Dropdown</span>
-                    </button>
-                    <ul class="dropdown-menu">
-                        <!-- Dropdown menu links -->
-
-                        <li>
-                            <div>
-                                <!-- AddToAny BEGIN -->
-                                <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-                                    <%--<a class="a2a_dd" href="https://www.addtoany.com/share?linkurl=http%3A%2F%2Fwintersauthor.azurewebsites.net%2F&amp;linkname=Patrick%20Winters%27%20Author%20Website"></a>--%>
-                                    <a class="a2a_button_facebook"></a>
-                                    <a class="a2a_button_twitter"></a>
-                                    <a class="a2a_button_google_plus"></a>
-                                    <a class="a2a_button_reddit"></a>
-                                    <a class="a2a_button_pinterest"></a>
-                                    <a class="a2a_button_google_gmail"></a>
-                                    <a class="a2a_button_email"></a>
-                                    <a class="a2a_button_telegram"></a>
-                                </div>
-                                <script>
-                                    var a2a_config = a2a_config || {};
-                                    a2a_config.linkname = "Patrick Winters' Author Website";
-                                    a2a_config.linkurl = "http://wintersauthor.azurewebsites.net/";
-                                </script>
-                                <script async src="https://static.addtoany.com/menu/page.js"></script>
-                                <!-- AddToAny END -->
-                            </div>
-                        </li>
-
-                    </ul>
-                </div>
     </div>
-
 </body>
 </html>

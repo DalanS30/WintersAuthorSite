@@ -3,6 +3,7 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <link href="../Styles/styledPanels.css" rel="stylesheet" />
     <link href="../Styles/worksStyles.css" rel="stylesheet" />
+    
     <div class="row">
         <br />
         <br />
@@ -19,10 +20,24 @@
             </p>
 
             <hr />
+            <img class="coverPhoto" src="../Pictures/littleGreen.JPG" alt="Devolution Cover" />
+            <br />
+            <p>
+                "Little Green Man" – <i>Devolution Z #15</i> – 10/1/16
+            </p>
+            <p>
+                It's the day after St. Patrick's Day, and a group of country boys are on their way back home after a holiday of drinking and good times. But an unlikely encounter is about to bring the good times to a screeching halt . . .
+            </p>
+            <p>
+                <a href="http://www.sirenscallpublications.com">View Here
+                </a>
+            </p>
+
+            <hr />
             <img class="coverPhoto" src="../Pictures/upset.JPG" alt="Upset Cover" />
             <br />
             <p>
-                 "Upset," "Venom," "Heretic," & "Nuts" – <i>The Sirens Call #28, "Terrifying Tales"</i> – 8/31/16
+                "Upset," "Venom," "Heretic," & "Nuts" – <i>The Sirens Call #28, "Terrifying Tales"</i> – 8/31/16
             </p>
             <p>
                 In this ezine, you'll find one short story and three flash pieces that are short on words, but full of malice, hilarity, and -- perhaps -- even a little poignancy. Download for FREE and read for yourself!
@@ -36,7 +51,7 @@
             <img class="coverPhoto" src="../Pictures/john.JPG" alt="Her Name's Not John Cover" />
             <br />
             <p>
-                 "Her Name's Not John" – <i>Trysts of Fate, #6</i> – 8/18/16
+                "Her Name's Not John" – <i>Trysts of Fate, #6</i> – 8/18/16
             </p>
             <p>
                 There's "toilet humor," and then there's humor about toilets. With this story of a young man's unlikely infatuation, the line between the two gets blurred . . .
