@@ -1,0 +1,49 @@
+﻿* {
+    text-decoration: none;
+    color: #d9d9d9;
+}
+
+body {
+    background-image: url("../Pictures/welcome.jpg");
+    background-color: #000000;
+    background-repeat: no-repeat;
+    background-position: center right;
+    background-attachment: fixed;
+    background-size: contain;
+    max-height: 75%;
+}
+
+.title {
+    font-family: 'Indie Flower', cursive;
+    font-size: 3em;
+    color: #d9d9d9;
+}
+
+.subTitle {
+    font-family: 'Indie Flower', cursive;
+    font-size: 1.5em;
+    color: #d9d9d9;
+}
+
+.enterLink {
+    font-family: 'Indie Flower', cursive;
+    font-size: 2em;
+    color: #d9d9d9;
+}
+
+.enterLink:hover {
+    text-decoration: none;
+    color: #d9d9d9;
+}
+
+.enterLink:visited {
+    text-decoration: none;
+    color: #d9d9d9;
+}
+
+#enterTextDiv {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+}

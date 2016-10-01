@@ -1,0 +1,39 @@
+﻿* {
+    font-family: 'Slabo 27px', serif;
+    color: #d9d9d9;
+}
+
+body {
+    background-color: black;
+    background-image: url("../Pictures/mainLeft.jpg"), url("../Pictures/mainRight.jpg");
+    background-repeat: no-repeat;
+    background-position: left center, right center;
+    background-attachment: fixed;
+    background-size: 18%;
+}
+
+#socialMediaDiv {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    padding: 4px;
+}
+
+.footerDiv{
+    position: fixed;
+    bottom: 0;
+    padding-top: 5px;
+    margin-bottom: 5px;
+    width: 100%;
+}
+
+.dropdown-menu {
+    background-color: black;
+}
+
+.btn-s, .btn-s:hover, .btn-s:active, .btn-group.open  {
+    background-color: #1a0000 !important;
+    border-color: #330000 !important;
+    color: white !important;
+}

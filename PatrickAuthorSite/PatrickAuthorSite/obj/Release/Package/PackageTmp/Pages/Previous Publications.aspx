@@ -1,0 +1,211 @@
+﻿<%@ Page Title="Previous Publications" MasterPageFile="~/Site.Master" Language="C#" AutoEventWireup="true" CodeBehind="Previous Publications.aspx.cs" Inherits="PatrickAuthorSite.Pages.Previous_Publications" %>
+
+<asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
+    <link href="../Styles/styledPanels.css" rel="stylesheet" />
+    <link href="../Styles/worksStyles.css" rel="stylesheet" />
+    <div class="row">
+        <br />
+        <br />
+
+        <asp:Panel runat="server" CssClass="styledPanel styledPanelSmall panel">
+            <p class="styledHeader">Previous Publications</p>
+
+            <p>
+                All images are property of their respective owners and are used strictly for identification.
+            </p>
+            <p>
+                <a href="#interviews">Click here to view interviews
+                </a>
+            </p>
+
+            <hr />
+            <img class="coverPhoto" src="../Pictures/upset.JPG" alt="Upset Cover" />
+            <br />
+            <p>
+                 "Upset," "Venom," "Heretic," & "Nuts" – <i>The Sirens Call #28, "Terrifying Tales"</i> – 8/31/16
+            </p>
+            <p>
+                In this ezine, you'll find one short story and three flash pieces that are short on words, but full of malice, hilarity, and -- perhaps -- even a little poignancy. Download for FREE and read for yourself!
+            </p>
+            <p>
+                <a href="http://www.sirenscallpublications.com">View Here
+                </a>
+            </p>
+
+            <hr />
+            <img class="coverPhoto" src="../Pictures/john.JPG" alt="Her Name's Not John Cover" />
+            <br />
+            <p>
+                 "Her Name's Not John" – <i>Trysts of Fate, #6</i> – 8/18/16
+            </p>
+            <p>
+                There's "toilet humor," and then there's humor about toilets. With this story of a young man's unlikely infatuation, the line between the two gets blurred . . .
+            </p>
+            <p>
+                <a href="http://store.albanlake.com/product/trysts-of-fate-issue-6/">View Here
+                </a>
+            </p>
+
+            <hr />
+            <img class="coverPhoto" src="../Pictures/ghostlight.jpg" alt="Ghostlight Cover" />
+            <br />
+            <p>
+                “Chirp” – <i>Ghostlight, The Magazine of Terror: Winter 2016</i> – 3/23/2016
+            </p>
+            <p>
+                Ron can't stand the noise of crickets chirping outside his window at night. It <i>bugs</i> him. But the noise soon goes from being a simple nuisance to something else entirely...
+            </p>
+            <p>
+                <a href="http://goo.gl/faJGsF">View Here
+                </a>
+            </p>
+
+            <hr />
+            <img class="coverPhoto" src="../Pictures/smallGravedigger.jpg" alt="Gravedigger Cover" />
+            <br />
+            <p>
+                “Gravedigger: Six Feet Deep” – self-published – 3/22/2016
+            </p>
+            <p>
+                These six supernatural-western stories follow the strange, violent, and mysterious life of the title figure, the Gravedigger. 
+Traveling across the United States circa 1800s, the enigmatic man known only as the Gravedigger seeks out outlaws and wrong-doers, greeting them with his revolver and saying his farewells with a freshly-dug grave. Along the way, he encounters the wilder things the Wild West has to offer, including the undead, horrid monsters, and the stuff of legends and folklore ...
+            </p>
+            <p>
+                <a href="Gravedigger Collection.aspx">View Here
+                </a>
+            </p>
+
+            <hr />
+            <img class="coverPhoto" src="../Pictures/fate.jpg" alt="Trysts of Fate 5 Cover" />
+            <br />
+            <p>
+                “Thoughts in Bed with Pain” – <i>Trysts of Fate</i>, Issue 5 – 2/22/2016 
+            </p>
+            <p>
+                When a young woman's marriage starts to go south, her dreams of the perfect man begin to lead her towards some dark temptations...
+            </p>
+            <p>
+                <a href="http://store.albanlake.com/product/trysts-of-fate-issue-5/">View Here
+                </a>
+            </p>
+
+            <hr />
+            <img class="coverPhoto" src="../Pictures/37.jpg" alt="Sanitarium 37 Cover" />
+            <br />
+            <p>
+                “The Stranger” – <i>Sanitarium Magazine</i>, #37 – 9/30/2015
+            </p>
+            <p>
+                In an Old West saloon, customers regale each other with stories of a strange figure being spotted throughout the Wild West – and who buries those he goes looking for...
+            </p>
+            <p>
+                <a href="http://sanitariummagazine.com/blog/2015/09/30/sanitarium-magazine-issue-37-is-out/">View Here
+                </a>
+            </p>
+
+            <hr />
+            <img class="coverPhoto" src="../Pictures/night.jpg" alt="Nightmare Cover" />
+            <br />
+            <p>
+                “Manifest Tragedy” – <i>The Nightmare Collective: An Anthology of Short Horror Stories</i> – 4/3/2015  
+            </p>
+            <p>
+                Three friends taking a road-trip to a rock concert come across a hitchhiker who may not be as meek and mild as she appears...
+            </p>
+            <p>
+                <a href="http://www.amazon.com/The-Nightmare-Collective-Anthology-Stories-ebook/dp/B00VE3J1QG">View Here
+                </a>
+            </p>
+
+            <hr />
+            <img class="coverPhoto" src="../Pictures/murmur.jpg" alt="Murmur Cover" />
+            <br />
+            <p>
+                “Murmur” – NOOK, self-published – 10/24/2014 
+            </p>
+            <p>
+                A simple walk through the woods was all that Jacob Crane needed to get away from his troubles – a chance to be alone and to unwind. But he is not alone. Something in the woods is whispering through the trees, and Jacob is listening...
+            </p>
+            <p>
+                <a href="http://www.barnesandnoble.com/w/murmur-patrick-winters/1120629837">View Here
+                </a>
+            </p>
+
+            <hr />
+            <img class="coverPhoto" src="../Pictures/25.jpg" alt="Sanitarium 25 Cover" />
+            <br />
+            <p>
+                “Daniel’s Scream” – <i>Sanitarium Magazine</i>, #25 – 9/20/2014
+            </p>
+            <p>
+                This account of a childhood experience with the seemingly supernatural leaves people screaming...
+            </p>
+            <p>
+                <a href="http://sanitariummagazine.com/blog/2014/09/20/sanitarium-magazine-issue-25/">View Here
+                </a>
+            </p>
+
+            <hr />
+            <img class="coverPhoto" src="../Pictures/24.jpg" alt="Sanitarium 24 Cover" />
+            <br />
+            <p>
+                “Damned Happy” – <i>Sanitarium Magazine</i>, #24 – 8/27/2014
+            </p>
+            <p>
+                The clown at his daughter's birthday party is no laughing matter for a man who has a fear of clowns – especially when the entertainer returns for a party of its own...
+            </p>
+            <p>
+                <a href="http://sanitariummagazine.com/blog/2014/08/27/sanitarium-magazine-issue-24-is-out/">View Here
+                </a>
+            </p>
+
+            <hr />
+            <img class="coverPhoto" src="../Pictures/caress.jpg" alt="Caress Cover" />
+            <br />
+            <p>
+                “Caress” – NOOK, self-published – 6/30/2014
+            </p>
+            <p>
+                After the tragic death of his wife, Christopher desperately tries to cope with his loss and with life.
+            </p>
+            <p>
+                <a href="http://www.barnesandnoble.com/w/caress-patrick-winters/1119886175">View Here
+                </a>
+            </p>
+
+            <hr />
+            <img class="coverPhoto" src="../Pictures/19.jpg" alt="Sanitarium 19 Cover" />
+            <br />
+            <p>
+                “Before the Ash” – <i>Sanitarium Magazine</i>, #19 – 3/21/2014 
+            </p>
+            <p>
+                A young man starts to feel the heat when a mysterious urn and an even more mysterious note are left on his work-desk... 
+            </p>
+            <p>
+                <a href="http://sanitariummagazine.com/blog/2014/03/21/sanitarium-magazine-issue-019-is-out/">View Here
+                </a>
+            </p>
+
+            <hr />
+
+        </asp:Panel>
+
+        <asp:Panel runat="server" CssClass="styledPanel styledPanelSmall panel">
+            <p class="styledHeader">Interviews</p>
+
+            <a name="interviews"></a>
+
+            <a class="interviewsAnchor" href="http://www.ic.edu/RelId/634046/infogroup/3809/pagenum/3/ISvars/default/IC_Junior_finds_his_passion_in_writing_dark_fiction,_horror_stories.htm">Illinois College, 10/30/2014
+            </a>
+            <br />
+            <a class="interviewsAnchor" href="http://sanitariummagazine.com/blog/2014/11/12/a-moment-with-patrick-winters/">Sanitarium Magazine, 2014
+            </a>
+            <br />
+            <a class="interviewsAnchor" href="http://myjournalcourier.com/archive/3938">Jacksonville Journal Courier, 12/28/2014
+            </a>
+        </asp:Panel>
+
+    </div>
+</asp:Content>
+
