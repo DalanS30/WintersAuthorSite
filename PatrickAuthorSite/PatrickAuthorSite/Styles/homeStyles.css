@@ -55,3 +55,9 @@
 	white-space: nowrap;
     border-radius: 3px 15px 3px 15px;
 }
+
+.ui-widget-content {
+	border: 1px solid #660000;
+    background: none !important;
+    color: none !important;
+}
