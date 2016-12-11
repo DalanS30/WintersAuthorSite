@@ -3,7 +3,7 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <link href="../Styles/styledPanels.css" rel="stylesheet" />
     <link href="../Styles/worksStyles.css" rel="stylesheet" />
-    
+
     <div class="row">
         <br />
         <br />
@@ -16,6 +16,90 @@
             </p>
             <p>
                 <a href="#interviews">Click here to view interviews
+                </a>
+            </p>
+
+            <hr />
+            <img class="coverPhoto" src="../Pictures/december.jpg" alt="December Cover" />
+            <br />
+            <p>
+                "Bad, Bad, Bad" – <i>Deadman's Tome</i> – 12/6/16
+            </p>
+            <p>
+                Santa Claus isn't the only one who might pay you a visit come Christmastime . . .
+            </p>
+            <p>
+                <a href="https://deadmanstome.net/2016/12/06/bad-bad-bad-patrick-winters/">View Here
+                </a>
+            </p>
+
+            <hr />
+            <img class="coverPhoto" src="../Pictures/krampus.jpg" alt="Krampus Cover" />
+            <br />
+            <p>
+                "Krampuslauf" – <i>Deadman's Tome</i> – 12/5/16
+            </p>
+            <p>
+                A Krampuslauf is a lively celebration that can be great fun -- or just terrifying . . .
+            </p>
+            <p>
+                <a href="https://deadmanstome.net/2016/12/05/krampuslauf-patrick-winters/">View Here
+                </a>
+            </p>
+
+            <hr />
+            <img class="coverPhoto" src="../Pictures/feverish.jpg" alt="Feverish Cover" />
+            <br />
+            <p>
+                "Mrs. Krampen" – <i>Feverish Fiction #1</i> – Dec. 2016
+            </p>
+            <p>
+                Two young men are thinking with their Yule logs when they try a little blackmail on a rather peculiar woman . . .
+            </p>
+            <p>
+                <a href="https://feverishfiction.wordpress.com/">View Here
+                </a>
+            </p>
+
+            <hr />
+            <img class="coverPhoto" src="../Pictures/100.png" alt="100 Words Cover" />
+            <br />
+            <p>
+                "Ah, Love" – A Story In 100 Words – 12/3/16
+            </p>
+            <p>
+                Love is strange -- kind of like this 100 word drabble . . .
+            </p>
+            <p>
+                <a href="http://entropy2.com/blogs/100words/2016/12/03/ah-love/">View Here
+                </a>
+            </p>
+
+            <hr />
+            <img class="coverPhoto" src="../Pictures/violet.jpg" alt="Violet Hour Cover" />
+            <br />
+            <p>
+                "Beast" – <i>The Violet Hour Magazine</i>, Issue 1.3 – 10/31/16
+            </p>
+            <p>
+                In this Gothic little tale, one should be wary of what lurks in the dark -- and in the self . . .
+            </p>
+            <p>
+                <a href="http://www.violethourpress.com/the-violet-hour-magazine">View Here
+                </a>
+            </p>
+
+            <hr />
+            <img class="coverPhoto" src="../Pictures/sirens.jpg" alt="Sirens Cover" />
+            <br />
+            <p>
+                "Superstition" – <i>The Sirens Call #29</i>, "Hallowe'en" – 10/29/16
+            </p>
+            <p>
+                Superstitions -- childish, foolish, and utter hogwash, right? Well, this account of a young boy's Halloween night from long ago may prove otherwise . . .
+            </p>
+            <p>
+                <a href="http://www.sirenscallpublications.com">View Here
                 </a>
             </p>
 

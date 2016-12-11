@@ -126,7 +126,7 @@
         </div>
     </form>
     <div class="footerDiv">
-        &copy; <%: DateTime.Now.Year %> - Patrick Winters | 
+        &copy; <%: DateTime.Now.Year %> - Patrick Winters
     </div>
 </body>
 </html>
