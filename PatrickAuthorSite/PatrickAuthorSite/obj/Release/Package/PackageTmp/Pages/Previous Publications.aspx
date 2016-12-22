@@ -20,6 +20,20 @@
             </p>
 
             <hr />
+            <img class="coverPhoto" src="../Pictures/crazyCover.jpg" alt="Every Second Cover" />
+            <br />
+            <p>
+                "Crazy?" – A Story In 100 Words – 12/20/16
+            </p>
+            <p>
+                Every second changes everything . . .
+            </p>
+            <p>
+                <a href="http://entropy2.com/blogs/100words/2016/12/19/crazy/">View Here
+                </a>
+            </p>
+
+            <hr />
             <img class="coverPhoto" src="../Pictures/december.jpg" alt="December Cover" />
             <br />
             <p>
