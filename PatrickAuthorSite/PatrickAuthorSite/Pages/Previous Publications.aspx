@@ -20,6 +20,76 @@
             </p>
 
             <hr />
+            <img class="coverPhoto" src="../Pictures/screwed.jpg" alt="Screwed Cover" />
+            <br />
+            <p>
+                "Screwed" – <i>No Safe Word</i> – 2/1/17
+            </p>
+            <p>
+                "Screwing around" can lead to being just plain screwed, if you're caught . . .
+            </p>
+            <p>
+                <a href="https://www.amazon.com/dp/B01NCT6Y6K">View Here
+                </a>
+            </p>
+
+            <hr />
+            <img class="coverPhoto" src="../Pictures/horrorTree.png" alt="Horror Tree Cover" />
+            <br />
+            <p>
+                "Separated" – <i>Trembling With Fear</i>, Week 2 – 1/15/17
+            </p>
+            <p>
+                See just how hard being separated from your loved ones can be in this quick drabble . . .
+            </p>
+            <p>
+                <a href="http://horrortree.com/trembling-with-fear-01152017/">View Here
+                </a>
+            </p>
+
+            <hr />
+            <img class="coverPhoto" src="../Pictures/trump.jpg" alt="Trump Cover" />
+            <br />
+            <p>
+                "I Have a Very Good Brain, and I've Said a Lot of Things" – <i>Trumpocalypse</i> – 1/6/17
+            </p>
+            <p>
+                Being the President of the United States isn't all it's cracked up to be. There's always something to deal with: press conferences, meeting with world leaders, zombie outbreaks . . .
+            </p>
+            <p>
+                <a href="https://www.amazon.com/dp/1520171854">View Here
+                </a>
+            </p>
+
+            <hr />
+            <img class="coverPhoto" src="../Pictures/merryMary.jpg" alt="Mary Cover" />
+            <br />
+            <p>
+                "Merry Mary," or "Death's Bridal Gown" – <i>Dark Dossier Magazine #14</i> – 1/5/17
+            </p>
+            <p>
+                Sometimes, an urban legend turns out to be a little more than just legend . . .
+            </p>
+            <p>
+                <a href="http://www.darkdossier.com/Magazine.html">View Here
+                </a>
+            </p>
+
+            <hr />
+            <img class="coverPhoto" src="../Pictures/siren30.jpg" alt="Sirens 30 Cover" />
+            <br />
+            <p>
+                "Mr. Mean" – <i>The Sirens Call</i> #30, "Death In All Its Glory!" – 12/31/16
+            </p>
+            <p>
+                Friendship is a wonderful thing. Most of the time . . .
+            </p>
+            <p>
+                <a href="http://www.sirenscallpublications.com/">View Here
+                </a>
+            </p>
+
+            <hr />
             <img class="coverPhoto" src="../Pictures/crazyCover.jpg" alt="Every Second Cover" />
             <br />
             <p>
