@@ -34,6 +34,20 @@
             </p>
 
             <hr />
+            <img class="coverPhoto" src="../Pictures/massacreMag10.jpg" alt="Massacre Cover" />
+            <br />
+            <p>
+                "Goodnight's Alternative Carnival of Curiosities" – <i>Massacre Magazine</i>, Issue 10 – 1/30/17
+            </p>
+            <p>
+                The Vernaldi Organ has a history as striking as its appearance; wherever it has gone, tragedy has tended to follow. But when an enterprising carnival owner gets the opportunity to buy it, its sensational reputation may be too much for him to pass up—no matter the potential consequences . . .
+            </p>
+            <p>
+                <a href="https://www.amazon.com/dp/B01MYDM5I8">View Here
+                </a>
+            </p>
+
+            <hr />
             <img class="coverPhoto" src="../Pictures/horrorTree.png" alt="Horror Tree Cover" />
             <br />
             <p>
