@@ -8,9 +8,42 @@
         <br />
 
         <asp:Panel runat="server" CssClass="styledPanel styledPanelSmall panel">
-            <p class="styledHeader">April 3, 2016</p>
+            <p class="styledHeader">February 2, 2017</p>
 
-            <p class="styledHeader">Latest News (April 3rd, 2016)</p>
+            <p class="justified">
+                So, yeah . . . "News" on this site has been slow, so to speak, with the last update coming from way back in last April. 
+            </p>
+            <p class="justified">
+                I've been told I should probably change that; so, I've crept out of the shadows I love to hide in to give you faithful, strange readers of mine (all three of you) a peak behind my literary curtain. Don't worry: when I pull it back, I'll be fully clothed, so open your eyes again and keep reading.
+            </p>
+            <p class="justified">
+                Just because regular bits of "news" haven't been popping up here doesn't mean that I've been slouching on the writing and publishing. Quite the opposite, actually! Since graduating college back in May, I've had about eleven short stories published—along with some other tidbits here and there—and am anxiously awaiting edits from the publisher who has picked up my first book! Not bad, or so I'd like to fool myself into believing. Hop on over to the Previous Publications tab to give them a look-see, and keep coming back to see what future releases are (hopefully, pwetty pwease with sugar on top?) on their way! I have a good dozen or so pieces out there that are currently being reviewed, so my fingers are crossed for them; it makes typing this kind of tough, actually . . .
+            </p>
+            <p class="justified">
+                So, aside from what's already been written, I have some nuggets to share on all I've yet to write or am currently tapping out. Trust me, there are a lot of stories swirling about in my peculiar mind:
+            </p>
+            <p class="justified">
+                I've picked up work on another horror novel that I'd started a good while back, and it's a real nightmare to write—because it revolves around nightmares . . .
+            </p>
+            <p class="justified">
+                I'm hammering out details on a young adult/children's book which, with luck and foresight, could become a series. The working title is Major Prufrock's Curious Search for the Bumbley-Dum; the book and a subsequent series will follow the title character as he goes on an array of zany (and potentially lethal) adventures . . .
+            </p>
+            <p class="justified">
+                The winds of my brainstorms are gradually stirring up ideas for yet another young adult/children's novel that I'm calling The Midnight Troupe. Magic and spectacle will be abound in this book . . . once I start feeling the magic myself and get to writing it . . .
+            </p>
+            <p class="justified">
+                And, of course, I have a bunch of short stories in various stages, from weird, murky conception to half-way written. Some I'm writing with the hopes of getting into specific anthologies and magazines, others I'm just writing because they're begging to be told—for better or worse . . .
+            </p>
+            <p class="justified">
+                That's about all I have to share for now! Hope you're reading and enjoying what I'm putting out there! Feel free to get at me on Facebook and let me know how you think I'm doing. Unless you're gonna be mean to me . . . I don't like mean people . . . My feels can't take it. 😔
+            </p>
+            <p class="justified">
+                Come back again in November when I give you the next round of updates! 😃
+            </p>
+        </asp:Panel>
+
+        <asp:Panel runat="server" CssClass="styledPanel styledPanelSmall panel">
+            <p class="styledHeader">April 3, 2016</p>
 
             <p class="justified">
                 Patrick's psychological-horror story, "Chirp," is featured in the new Winter 2016 edition of Ghostlight, The Magazine of Terror. The magazine is published by the Great Lakes Association of Horror Writers, and this edition is now available for purchase <a href="http://goo.gl/faJGsF">here</a>!
