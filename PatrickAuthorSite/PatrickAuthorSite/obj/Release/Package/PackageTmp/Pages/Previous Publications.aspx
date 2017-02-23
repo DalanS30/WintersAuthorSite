@@ -14,8 +14,51 @@
             <p>
                 All images are property of their respective owners and are used strictly for identification.
             </p>
+            <p><strong>Some images on this site may be inappropriate for children or disturbing in nature. View at your own risk, but it is a site for horror, after all!</strong></p>
             <p>
                 <a href="#interviews">Click here to view interviews
+                </a>
+            </p>
+
+            <hr />
+            <img class="coverPhoto" src="../Pictures/serial.jpg" alt="Serial Cover" />
+            <br />
+            <p>
+                "Serial Serendipity" – <i>Feverish Fiction</i> #3 – 2/22/17
+            </p>
+            <p>
+                Being a serial killer isn't all it's cracked up to be . . . or so I've been told. There's a lot of planning involved—and in spite of it all, some things are just left to a strange bit of chance . . .
+            </p>
+            <p>
+                <a href="http://sleazyvikingpress.bigcartel.com/product/feverish-fiction-magazine-issue-3">View Here
+                </a>
+            </p>
+
+            <hr />
+            <img class="coverPhoto" src="../Pictures/literally.jpg" alt="Literally Cover" />
+            <br />
+            <p>
+                "The Pitch" – <i>Literally Stories</i> – 2/22/17
+            </p>
+            <p>
+                Door to door salespeople have been known for selling a rather odd array of items and offers in the past; this story and its salesman have something <i>extremely</i> odd to pitch . . .
+            </p>
+            <p>
+                <a href="https://literallystories2014.com/2017/02/22/the-pitch-by-patrick-winters/">View Here
+                </a>
+            </p>
+
+            <hr />
+            <img class="coverPhoto" src="../Pictures/mentalCheck.png" alt="Mental Check Cover" />
+            <br />
+            <p>
+                "Mental Check" – <i>Trembling With Fear</i>, Week 6 – 2/19/17
+            </p>
+            <p>
+                Ever go to the store and feel like you've forgotten to get something . . . ?
+            </p>
+            <p>
+                <a href="http://horrortree.com/trembling-with-fear-02192017/">View Here
                 </a>
             </p>
 
@@ -30,6 +73,20 @@
             </p>
             <p>
                 <a href="https://www.amazon.com/dp/B01NCT6Y6K">View Here
+                </a>
+            </p>
+
+            <hr />
+            <img class="coverPhoto" src="../Pictures/san51.JPG" alt="San 51 Cover" />
+            <br />
+            <p>
+                "Old Shuck" – <i>Sanitarium Magazine</i>, #51 – 1/31/17
+            </p>
+            <p>
+                If you hear its howl, run for your life; if you see it, pray for your soul. Old Shuck is in the streets, and it may just be searching for you . . .
+            </p>
+            <p>
+                <a href="https://www.amazon.com/Sanitarium-Magazine-Issue-51-Entertainment-ebook/dp/B01N28LHPJ">View Here
                 </a>
             </p>
 
