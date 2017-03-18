@@ -172,6 +172,7 @@
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Site.css" />
+    <Content Include="Content\slick.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
@@ -187,8 +188,10 @@
     <Content Include="Pages\Donate.aspx" />
     <Content Include="Pages\Gravedigger Collection.aspx" />
     <Content Include="Pages\Home.aspx" />
+    <Content Include="Pages\NabbitRabbit.aspx" />
     <Content Include="Pages\News.aspx" />
     <Content Include="Pages\Previous Publications.aspx" />
+    <Content Include="Pages\Publications.xml" />
     <Content Include="Pages\Read Gravedigger.aspx" />
     <Content Include="Pages\Welcome.aspx" />
     <Content Include="Pictures\100.png" />
@@ -203,11 +206,13 @@
     <Content Include="Pictures\december.jpg" />
     <Content Include="Pictures\downloadButton1.PNG" />
     <Content Include="Pictures\downloadButton2.PNG" />
+    <Content Include="Pictures\drag.PNG" />
     <Content Include="Pictures\fate.JPG" />
     <Content Include="Pictures\feverish.jpg" />
     <Content Include="Pictures\ghostlight.jpg" />
     <Content Include="Pictures\gravedigger.jpg" />
     <Content Include="Pictures\horrorTree.PNG" />
+    <Content Include="Pictures\icucow.jpg" />
     <Content Include="Pictures\john.JPG" />
     <Content Include="Pictures\krampus.jpg" />
     <Content Include="Pictures\literally.jpg" />
@@ -218,12 +223,22 @@
     <Content Include="Pictures\mentalCheck.PNG" />
     <Content Include="Pictures\merryMary.jpg" />
     <Content Include="Pictures\murmur.jpg" />
+    <Content Include="Pictures\NabbitRabbit\ApologizetoDeer.jpg" />
+    <Content Include="Pictures\NabbitRabbit\ApologizetoOtter.jpg" />
+    <Content Include="Pictures\NabbitRabbit\ApologizetoOwl.jpg" />
+    <Content Include="Pictures\NabbitRabbit\CryingDeer.jpg" />
+    <Content Include="Pictures\NabbitRabbit\FirstIllustration.jpg" />
+    <Content Include="Pictures\NabbitRabbit\MsOtter.jpg" />
+    <Content Include="Pictures\NabbitRabbit\OwlChase.jpg" />
+    <Content Include="Pictures\NabbitRabbit\TheEnd.jpg" />
     <Content Include="Pictures\night.jpg" />
     <Content Include="Pictures\san51.JPG" />
     <Content Include="Pictures\screwed.jpg" />
+    <Content Include="Pictures\sepAgain.PNG" />
     <Content Include="Pictures\serial.jpg" />
     <Content Include="Pictures\siren30.jpg" />
     <Content Include="Pictures\sirens.jpg" />
+    <Content Include="Pictures\sleaze.jpg" />
     <Content Include="Pictures\smallGravedigger.jpg" />
     <Content Include="Pictures\smilingFace.jpg" />
     <Content Include="Pictures\test.jpg" />
@@ -236,8 +251,10 @@
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
     <Content Include="Scripts\modernizr-2.6.2.js" />
+    <Content Include="Scripts\npm.js" />
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />
+    <Content Include="Scripts\slick.min.js" />
     <Content Include="Scripts\WebForms\DetailsView.js" />
     <Content Include="Scripts\WebForms\Focus.js" />
     <Content Include="Scripts\WebForms\GridView.js" />
@@ -457,6 +474,13 @@
     </Compile>
     <Compile Include="Pages\Home.aspx.designer.cs">
       <DependentUpon>Home.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\NabbitRabbit.aspx.cs">
+      <DependentUpon>NabbitRabbit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\NabbitRabbit.aspx.designer.cs">
+      <DependentUpon>NabbitRabbit.aspx</DependentUpon>
     </Compile>
     <Compile Include="Pages\News.aspx.cs">
       <DependentUpon>News.aspx</DependentUpon>

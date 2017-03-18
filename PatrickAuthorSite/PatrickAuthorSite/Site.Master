@@ -63,15 +63,15 @@
                         <li>
                             <asp:LinkButton runat="server" Text="Previous Publications" OnClick="linkButton_Click"></asp:LinkButton>
                         </li>
-                        <li>
+                        <%--<li>
                             <asp:LinkButton runat="server" Text="News" OnClick="linkButton_Click"></asp:LinkButton>
-                        </li>
+                        </li>--%>
                         <li>
                             <asp:LinkButton runat="server" Text="Contact" OnClick="linkButton_Click"></asp:LinkButton>
                         </li>
-                        <li>
+                        <%--<li>
                             <asp:LinkButton runat="server" Text="Donate" OnClick="linkButton_Click"></asp:LinkButton>
-                        </li>
+                        </li>--%>
                         <li>
                             <asp:LinkButton runat="server" Text="Credits" OnClick="linkButton_Click"></asp:LinkButton>
                         </li>
@@ -118,15 +118,15 @@
 
                     </ul>
                 </div>
-            </div>
+            </div> --%>
             <hr />
             <footer>
                 <p>&copy; <%: DateTime.Now.Year %> - Patrick Winters</p>
-            </footer> --%>
+            </footer>
         </div>
     </form>
-    <div class="footerDiv">
+    <%--<div class="footerDiv">
         &copy; <%: DateTime.Now.Year %> - Patrick Winters
-    </div>
+    </div>--%>
 </body>
 </html>
