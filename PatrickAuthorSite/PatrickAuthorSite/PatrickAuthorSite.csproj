@@ -189,7 +189,9 @@
     <Content Include="Pages\Home.aspx" />
     <Content Include="Pages\News.aspx" />
     <Content Include="Pages\Previous Publications.aspx" />
-    <Content Include="Pages\Publications.xml" />
+    <Content Include="Pages\Publications.xml">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Pages\Read Gravedigger.aspx" />
     <Content Include="Pages\Welcome.aspx" />
     <Content Include="Pictures\100.png" />
@@ -197,10 +199,12 @@
     <Content Include="Pictures\24.jpg" />
     <Content Include="Pictures\25.jpg" />
     <Content Include="Pictures\37.JPG" />
+    <Content Include="Pictures\amore.jpg" />
     <Content Include="Pictures\biopic.jpg" />
     <Content Include="Pictures\biopic2.jpg" />
     <Content Include="Pictures\caress.jpg" />
     <Content Include="Pictures\crazyCover.JPG" />
+    <Content Include="Pictures\deadApril.jpg" />
     <Content Include="Pictures\december.jpg" />
     <Content Include="Pictures\downloadButton1.PNG" />
     <Content Include="Pictures\downloadButton2.PNG" />
@@ -208,7 +212,9 @@
     <Content Include="Pictures\fate.JPG" />
     <Content Include="Pictures\feverish.jpg" />
     <Content Include="Pictures\ghostlight.jpg" />
+    <Content Include="Pictures\gnarl.PNG" />
     <Content Include="Pictures\gravedigger.jpg" />
+    <Content Include="Pictures\harpers.jpg" />
     <Content Include="Pictures\horrorTree.PNG" />
     <Content Include="Pictures\icucow.jpg" />
     <Content Include="Pictures\john.JPG" />
@@ -222,10 +228,13 @@
     <Content Include="Pictures\merryMary.jpg" />
     <Content Include="Pictures\murmur.jpg" />
     <Content Include="Pictures\night.jpg" />
+    <Content Include="Pictures\pulpFlash.png" />
+    <Content Include="Pictures\punxsutawney.PNG" />
     <Content Include="Pictures\san51.JPG" />
     <Content Include="Pictures\screwed.jpg" />
     <Content Include="Pictures\sepAgain.PNG" />
     <Content Include="Pictures\serial.jpg" />
+    <Content Include="Pictures\seventeeth.jpg" />
     <Content Include="Pictures\siren30.jpg" />
     <Content Include="Pictures\sirens.jpg" />
     <Content Include="Pictures\sleaze.jpg" />

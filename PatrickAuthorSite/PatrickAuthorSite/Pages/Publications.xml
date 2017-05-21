@@ -1,6 +1,71 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 
+<!--<Publication>
+  <title></title>
+  <date>/17</date>
+  <publisher></publisher>
+  <snippet></snippet>
+  <link></link>
+  <image></image>
+</Publication>-->
+
 <Publications>
+  <Publication>
+    <title>The Gnarl</title>
+    <date>5/14/17</date>
+    <publisher>With Candlelight</publisher>
+    <snippet>A lonesome little girl makes a unique friend in this piece of dark fantasy . . .</snippet>
+    <link>https://withcandlelight.com/horrorsci-fi/</link>
+    <image>gnarl.png</image>
+  </Publication>
+  <Publication>
+    <title>Harper's Glen</title>
+    <date>5/6/17</date>
+    <publisher>Speculative 66, Issue 8 </publisher>
+    <snippet>Superstition and local legend are abound in "Harper's Glen;" meanwhile, love is conquering death itself in "Undying."</snippet>
+    <link>http://speculative66.weebly.com/current-issue.html</link>
+    <image>harpers.jpg</image>
+  </Publication>
+  <Publication>
+    <title>Carly's Seventh</title>
+    <date>5/2/17</date>
+    <publisher>The Sirens Call #32, "Hack &amp; Slash"</publisher>
+    <snippet>It's little Carly's birthday, and her father has bought quite the peculiar present for her . . .</snippet>
+    <link>http://sirenscallpublications.com/</link>
+    <image>seventeeth.jpg</image>
+  </Publication>
+  <Publication>
+    <title>Amore</title>
+    <date>4/24/17</date>
+    <publisher>Living Paranormal Magazine, #2</publisher>
+    <snippet>A romantic vacation becomes a little less lovey-dovey when a unique gift is given from husband to wife . . .</snippet>
+    <link>http://www.livingparanormalmagazine.com/editions.php</link>
+    <image>amore.jpg</image>
+  </Publication>
+  <Publication>
+    <title>Punxsutawney Elegy</title>
+    <date>4/24/17</date>
+    <publisher>Literally Stories</publisher>
+    <snippet>Follow a man as he traverses the waste of a post-apocalyptic world, determined to enact a strange sort of vengeance . . .</snippet>
+    <link>https://literallystories2014.com/2017/04/24/punxsutawney-elegy-by-patrick-winters/</link>
+    <image>punxsutawney.png</image>
+  </Publication>
+  <Publication>
+    <title>The Spot</title>
+    <date>4/6/17</date>
+    <publisher>Flash Fiction Offensive, Out of the Gutter</publisher>
+    <snippet>Romance isn't always easy. Sometimes you have to work at it and go to great lengths to figure things out. In this flash piece, those lengths lead a couple out into the woods on a very special rendezvous . . .</snippet>
+    <link>http://www.outofthegutteronline.com/2017/04/the-spot.html</link>
+    <image>pulpFlash.png</image>
+  </Publication>
+  <Publication>
+    <title>Though He Walks</title>
+    <date>4/1/17</date>
+    <publisher>He's Risen</publisher>
+    <snippet>The undead have inherited the earth, but one man still wanders in hopes of salvation . . .</snippet>
+    <link>https://www.amazon.com/dp/B06XWXNV59</link>
+    <image>deadApril.jpg</image>
+  </Publication>
   <Publication>
     <title>The Time I Done Pranked Some Spacemen</title>
     <date>3/15/17</date>
