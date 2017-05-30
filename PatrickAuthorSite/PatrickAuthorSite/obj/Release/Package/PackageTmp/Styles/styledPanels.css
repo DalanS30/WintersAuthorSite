@@ -1,7 +1,7 @@
 ﻿.styledPanel {
     margin-right: auto;
     margin-left: auto;
-    padding: 80px;
+    padding: 40px;
     padding-top: 25px;
     border: solid 8px;
     border-color: #1a0000;
@@ -12,7 +12,7 @@
 
 .styledPanelSmall {
     font-size: 120%;
-    max-width: 900px;
+    max-width: 1500px;
 }
 
 .styledHeader {

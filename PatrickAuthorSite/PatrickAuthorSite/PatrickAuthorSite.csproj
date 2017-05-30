@@ -218,6 +218,7 @@
     <Content Include="Pictures\horrorTree.PNG" />
     <Content Include="Pictures\icucow.jpg" />
     <Content Include="Pictures\john.JPG" />
+    <Content Include="Pictures\Kaiden.PNG" />
     <Content Include="Pictures\krampus.jpg" />
     <Content Include="Pictures\literally.jpg" />
     <Content Include="Pictures\littleGreen.jpg" />
@@ -230,6 +231,7 @@
     <Content Include="Pictures\night.jpg" />
     <Content Include="Pictures\pulpFlash.png" />
     <Content Include="Pictures\punxsutawney.PNG" />
+    <Content Include="Pictures\release.jpg" />
     <Content Include="Pictures\san51.JPG" />
     <Content Include="Pictures\screwed.jpg" />
     <Content Include="Pictures\sepAgain.PNG" />
@@ -241,6 +243,7 @@
     <Content Include="Pictures\smallGravedigger.jpg" />
     <Content Include="Pictures\smilingFace.jpg" />
     <Content Include="Pictures\test.jpg" />
+    <Content Include="Pictures\texas.jpg" />
     <Content Include="Pictures\trump.jpg" />
     <Content Include="Pictures\upset.JPG" />
     <Content Include="Pictures\violet.jpg" />

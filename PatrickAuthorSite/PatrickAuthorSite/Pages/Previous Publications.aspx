@@ -19,8 +19,9 @@
                 <a href="#interviews">Click here to view interviews
                 </a>
             </p>
+            <hr />
 
-            <asp:Repeater ID="publicationsRepeater" runat="server" DataSourceID="publicationsXmlDataSource">
+            <%--<asp:Repeater ID="publicationsRepeater" runat="server" DataSourceID="publicationsXmlDataSource">
                 <ItemTemplate>
                     <hr />
                     <img class="coverPhoto" src='<%# string.Format("../Pictures/{0}", XPath("image")) %>' />
@@ -36,7 +37,45 @@
                         </a>
                     </p>
                 </ItemTemplate>
-            </asp:Repeater>
+            </asp:Repeater>--%>
+
+            <div class="row">
+                <asp:Repeater ID="publicationsRepeater" runat="server" DataSourceID="publicationsXmlDataSource">
+                    <ItemTemplate>
+                        <div class="col-lg-4 col-md-4 col-xs-12 thumb">
+                            <div class="pub-thumb">
+                                <div class="pub-image">
+                                    <a class="thumbnail" href="#" data-toggle="modal" data-target='<%# "#" + FormatDataTarget(XPath("image")) %>'>
+                                        <img class="coverPhoto" src='<%# string.Format("../Pictures/{0}", XPath("image")) %>' alt='<%# XPath("image") %>'>
+                                    </a>
+                                </div>
+                                <%# FormatTitle(XPath("title")) %> 
+                                <br />
+                                <%# XPath("date") %>
+                            </div>
+                        </div>
+                        <div id='<%# FormatDataTarget(XPath("image")) %>' class="modal fade" role="dialog">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                        <h4 class="modal-title">"<%# XPath("title") %>" – <i><%# XPath("publisher") %></i> – <%# XPath("date") %>
+                                        </h4>
+                                    </div>
+                                    <div class="modal-body">
+                                        <img class="coverPhoto" src='<%# string.Format("../Pictures/{0}", XPath("image")) %>' />
+                                        <br />
+                                        <%# XPath("snippet") %>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </ItemTemplate>
+                </asp:Repeater>
+            </div>
         </asp:Panel>
 
         <asp:Panel runat="server" CssClass="styledPanel styledPanelSmall panel">
