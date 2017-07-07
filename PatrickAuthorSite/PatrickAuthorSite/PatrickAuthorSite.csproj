@@ -225,6 +225,7 @@
     <Content Include="Pictures\mainLeft.jpg" />
     <Content Include="Pictures\mainRight.jpg" />
     <Content Include="Pictures\massacreMag10.jpg" />
+    <Content Include="Pictures\max.png" />
     <Content Include="Pictures\mentalCheck.PNG" />
     <Content Include="Pictures\merryMary.jpg" />
     <Content Include="Pictures\murmur.jpg" />
