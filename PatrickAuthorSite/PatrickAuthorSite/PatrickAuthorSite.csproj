@@ -233,6 +233,7 @@
     <Content Include="Pictures\merryMary.jpg" />
     <Content Include="Pictures\monster.PNG" />
     <Content Include="Pictures\murmur.jpg" />
+    <Content Include="Pictures\myEyes.png" />
     <Content Include="Pictures\night.jpg" />
     <Content Include="Pictures\pulpFlash.png" />
     <Content Include="Pictures\punxsutawney.PNG" />
@@ -254,6 +255,7 @@
     <Content Include="Pictures\trump.jpg" />
     <Content Include="Pictures\upset.JPG" />
     <Content Include="Pictures\violet.jpg" />
+    <Content Include="Pictures\weirdWest.png" />
     <Content Include="Pictures\welcome.jpg" />
     <Content Include="Pictures\zombie.jpg" />
     <Content Include="Scripts\bootstrap.js" />
