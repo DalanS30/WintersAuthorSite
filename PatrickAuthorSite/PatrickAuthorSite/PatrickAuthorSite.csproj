@@ -218,6 +218,7 @@
     <Content Include="Pictures\heart.png" />
     <Content Include="Pictures\horrorTree.PNG" />
     <Content Include="Pictures\icucow.jpg" />
+    <Content Include="Pictures\int.jpg" />
     <Content Include="Pictures\jacoby.PNG" />
     <Content Include="Pictures\john.JPG" />
     <Content Include="Pictures\Kaiden.PNG" />
@@ -234,6 +235,7 @@
     <Content Include="Pictures\monster.PNG" />
     <Content Include="Pictures\murmur.jpg" />
     <Content Include="Pictures\myEyes.png" />
+    <Content Include="Pictures\necro.jpg" />
     <Content Include="Pictures\night.jpg" />
     <Content Include="Pictures\pulpFlash.png" />
     <Content Include="Pictures\punxsutawney.PNG" />

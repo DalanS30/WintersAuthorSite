@@ -68,6 +68,7 @@
                                         <%# XPath("snippet") %>
                                     </div>
                                     <div class="modal-footer">
+                                        <a class="btn btn-default pull-left" href='<%# XPath("link") %>' >Read On</a>
                                         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
                                     </div>
                                 </div>
