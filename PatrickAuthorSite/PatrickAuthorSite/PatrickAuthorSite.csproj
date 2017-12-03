@@ -24,6 +24,7 @@
     <UseGlobalApplicationHostFile />
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
+    <Use64BitIISExpress />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -241,6 +242,7 @@
     <Content Include="Pictures\punxsutawney.PNG" />
     <Content Include="Pictures\release.jpg" />
     <Content Include="Pictures\robot.jpg" />
+    <Content Include="Pictures\roogcha.jpg" />
     <Content Include="Pictures\san51.JPG" />
     <Content Include="Pictures\san54.jpg" />
     <Content Include="Pictures\screwed.jpg" />

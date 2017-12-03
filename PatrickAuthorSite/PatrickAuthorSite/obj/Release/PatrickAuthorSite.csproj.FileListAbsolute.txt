@@ -130,3 +130,4 @@ T:\GitHub\WintersAuthorSite\PatrickAuthorSite\PatrickAuthorSite\bin\Microsoft.Ow
 T:\GitHub\WintersAuthorSite\PatrickAuthorSite\PatrickAuthorSite\obj\Release\PatrickAuthorSite.csprojResolveAssemblyReference.cache
 T:\GitHub\WintersAuthorSite\PatrickAuthorSite\PatrickAuthorSite\obj\Release\PatrickAuthorSite.dll
 T:\GitHub\WintersAuthorSite\PatrickAuthorSite\PatrickAuthorSite\obj\Release\PatrickAuthorSite.pdb
+T:\GitHub\WintersAuthorSite\PatrickAuthorSite\PatrickAuthorSite\obj\Release\PatrickAuthorSite.csproj.CoreCompileInputs.cache
