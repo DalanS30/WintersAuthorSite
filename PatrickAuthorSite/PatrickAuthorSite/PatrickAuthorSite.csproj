@@ -200,6 +200,7 @@
     <Content Include="Pictures\24.jpg" />
     <Content Include="Pictures\25.jpg" />
     <Content Include="Pictures\37.JPG" />
+    <Content Include="Pictures\ahp.jpg" />
     <Content Include="Pictures\amore.jpg" />
     <Content Include="Pictures\biopic.jpg" />
     <Content Include="Pictures\biopic2.jpg" />
@@ -209,6 +210,7 @@
     <Content Include="Pictures\december.jpg" />
     <Content Include="Pictures\downloadButton1.PNG" />
     <Content Include="Pictures\downloadButton2.PNG" />
+    <Content Include="Pictures\drabble2018.PNG" />
     <Content Include="Pictures\drag.PNG" />
     <Content Include="Pictures\fate.JPG" />
     <Content Include="Pictures\feverish.jpg" />
@@ -241,6 +243,7 @@
     <Content Include="Pictures\pulpFlash.png" />
     <Content Include="Pictures\punxsutawney.PNG" />
     <Content Include="Pictures\release.jpg" />
+    <Content Include="Pictures\rising.jpg" />
     <Content Include="Pictures\robot.jpg" />
     <Content Include="Pictures\roogcha.jpg" />
     <Content Include="Pictures\san51.JPG" />
@@ -257,6 +260,7 @@
     <Content Include="Pictures\test.jpg" />
     <Content Include="Pictures\texas.jpg" />
     <Content Include="Pictures\trump.jpg" />
+    <Content Include="Pictures\unoriginal.jpg" />
     <Content Include="Pictures\upset.JPG" />
     <Content Include="Pictures\violet.jpg" />
     <Content Include="Pictures\weirdWest.png" />
