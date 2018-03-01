@@ -206,14 +206,17 @@
     <Content Include="Pictures\biopic2.jpg" />
     <Content Include="Pictures\caress.jpg" />
     <Content Include="Pictures\crazyCover.JPG" />
+    <Content Include="Pictures\curses.jpg" />
     <Content Include="Pictures\deadApril.jpg" />
     <Content Include="Pictures\december.jpg" />
     <Content Include="Pictures\downloadButton1.PNG" />
     <Content Include="Pictures\downloadButton2.PNG" />
     <Content Include="Pictures\drabble2018.PNG" />
     <Content Include="Pictures\drag.PNG" />
+    <Content Include="Pictures\dreamPast.jpg" />
     <Content Include="Pictures\fate.JPG" />
     <Content Include="Pictures\feverish.jpg" />
+    <Content Include="Pictures\firstDate.PNG" />
     <Content Include="Pictures\ghostlight.jpg" />
     <Content Include="Pictures\gnarl.PNG" />
     <Content Include="Pictures\gravedigger.jpg" />
