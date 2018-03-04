@@ -218,6 +218,7 @@
     <Content Include="Pictures\feverish.jpg" />
     <Content Include="Pictures\firstDate.PNG" />
     <Content Include="Pictures\ghostlight.jpg" />
+    <Content Include="Pictures\ghostlight2.jpg" />
     <Content Include="Pictures\gnarl.PNG" />
     <Content Include="Pictures\gravedigger.jpg" />
     <Content Include="Pictures\harpers.jpg" />
@@ -241,6 +242,7 @@
     <Content Include="Pictures\monster.PNG" />
     <Content Include="Pictures\murmur.jpg" />
     <Content Include="Pictures\myEyes.png" />
+    <Content Include="Pictures\nathan.PNG" />
     <Content Include="Pictures\necro.jpg" />
     <Content Include="Pictures\night.jpg" />
     <Content Include="Pictures\pulpFlash.png" />

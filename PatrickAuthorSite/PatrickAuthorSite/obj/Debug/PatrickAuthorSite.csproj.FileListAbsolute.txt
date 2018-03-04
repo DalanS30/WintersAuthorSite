@@ -64,6 +64,7 @@ c:\users\davey\documents\visual studio 2015\Projects\PatrickAuthorSite\PatrickAu
 c:\users\davey\documents\visual studio 2015\Projects\PatrickAuthorSite\PatrickAuthorSite\obj\Debug\PatrickAuthorSite.dll
 c:\users\davey\documents\visual studio 2015\Projects\PatrickAuthorSite\PatrickAuthorSite\obj\Debug\PatrickAuthorSite.pdb
 C:\Users\Davey\documents\visual studio 2015\Projects\PatrickAuthorSite\PatrickAuthorSite\obj\Debug\PatrickAuthorSite.csprojResolveAssemblyReference.cache
+T:\GitHub\WintersAuthorSite\PatrickAuthorSite\PatrickAuthorSite\obj\Debug\PatrickAuthorSite.csproj.CoreCompileInputs.cache
 T:\GitHub\WintersAuthorSite\PatrickAuthorSite\PatrickAuthorSite\bin\roslyn\csc.exe
 T:\GitHub\WintersAuthorSite\PatrickAuthorSite\PatrickAuthorSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 T:\GitHub\WintersAuthorSite\PatrickAuthorSite\PatrickAuthorSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
@@ -127,6 +128,5 @@ T:\GitHub\WintersAuthorSite\PatrickAuthorSite\PatrickAuthorSite\bin\Microsoft.Ow
 T:\GitHub\WintersAuthorSite\PatrickAuthorSite\PatrickAuthorSite\bin\Microsoft.Owin.Security.Twitter.xml
 T:\GitHub\WintersAuthorSite\PatrickAuthorSite\PatrickAuthorSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 T:\GitHub\WintersAuthorSite\PatrickAuthorSite\PatrickAuthorSite\bin\Microsoft.Owin.Security.OAuth.xml
-T:\GitHub\WintersAuthorSite\PatrickAuthorSite\PatrickAuthorSite\obj\Debug\PatrickAuthorSite.csprojResolveAssemblyReference.cache
 T:\GitHub\WintersAuthorSite\PatrickAuthorSite\PatrickAuthorSite\obj\Debug\PatrickAuthorSite.dll
 T:\GitHub\WintersAuthorSite\PatrickAuthorSite\PatrickAuthorSite\obj\Debug\PatrickAuthorSite.pdb
