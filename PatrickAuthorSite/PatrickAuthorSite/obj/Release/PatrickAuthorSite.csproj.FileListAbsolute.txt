@@ -131,3 +131,4 @@ T:\GitHub\WintersAuthorSite\PatrickAuthorSite\PatrickAuthorSite\obj\Release\Patr
 T:\GitHub\WintersAuthorSite\PatrickAuthorSite\PatrickAuthorSite\obj\Release\PatrickAuthorSite.dll
 T:\GitHub\WintersAuthorSite\PatrickAuthorSite\PatrickAuthorSite\obj\Release\PatrickAuthorSite.pdb
 T:\GitHub\WintersAuthorSite\PatrickAuthorSite\PatrickAuthorSite\obj\Release\PatrickAuthorSite.csproj.CoreCompileInputs.cache
+T:\GitHub\WintersAuthorSite\PatrickAuthorSite\PatrickAuthorSite\obj\Release\PatrickAuthorSite.csproj.CopyComplete

@@ -21,24 +21,6 @@
             </p>
             <hr />
 
-            <%--<asp:Repeater ID="publicationsRepeater" runat="server" DataSourceID="publicationsXmlDataSource">
-                <ItemTemplate>
-                    <hr />
-                    <img class="coverPhoto" src='<%# string.Format("../Pictures/{0}", XPath("image")) %>' />
-                    <br />
-                    <p>
-                        "<%# XPath("title") %>" – <i><%# XPath("publisher") %></i> – <%# XPath("date") %>
-                    </p>
-                    <p>
-                        <%# XPath("snippet") %>
-                    </p>
-                    <p>
-                        <a href='<%# XPath("link") %>'>Read on
-                        </a>
-                    </p>
-                </ItemTemplate>
-            </asp:Repeater>--%>
-
             <div class="row">
                 <asp:Repeater ID="publicationsRepeater" runat="server" DataSourceID="publicationsXmlDataSource">
                     <ItemTemplate>
@@ -49,7 +31,7 @@
                                         <img class="coverPhoto" src='<%# string.Format("../Pictures/{0}", XPath("image")) %>' alt='<%# XPath("image") %>'>
                                     </a>
                                 </div>
-                                <%# FormatTitle(XPath("title")) %> 
+                                <%# FormatTitle(XPath("title")) %>
                                 <br />
                                 <%# XPath("date") %>
                             </div>
@@ -68,7 +50,7 @@
                                         <%# XPath("snippet") %>
                                     </div>
                                     <div class="modal-footer">
-                                        <a class="btn btn-default pull-left" href='<%# XPath("link") %>' >Read On</a>
+                                        <a class="btn btn-default pull-left" href='<%# XPath("link") %>'>Read On</a>
                                         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
                                     </div>
                                 </div>
@@ -84,14 +66,13 @@
 
             <a name="interviews"></a>
 
-            <a class="interviewsAnchor" href="http://www.ic.edu/RelId/634046/infogroup/3809/pagenum/3/ISvars/default/IC_Junior_finds_his_passion_in_writing_dark_fiction,_horror_stories.htm">Illinois College, 10/30/2014
-            </a>
+            <a class="interviewsAnchor" href="https://youtu.be/lvf5SH2URcE">Deadman's Tome - Patrick Winters Shit Fest, 3/2/2018</a>
             <br />
-            <a class="interviewsAnchor" href="http://sanitariummagazine.com/blog/2014/11/12/a-moment-with-patrick-winters/">Sanitarium Magazine, 2014
-            </a>
+            <a class="interviewsAnchor" href="http://myjournalcourier.com/archive/3938">Jacksonville Journal Courier, 12/28/2014</a>
             <br />
-            <a class="interviewsAnchor" href="http://myjournalcourier.com/archive/3938">Jacksonville Journal Courier, 12/28/2014
-            </a>
+            <a class="interviewsAnchor" href="http://sanitariummagazine.com/blog/2014/11/12/a-moment-with-patrick-winters/">Sanitarium Magazine, 2014</a>
+            <br />
+            <a class="interviewsAnchor" href="http://www.ic.edu/RelId/634046/infogroup/3809/pagenum/3/ISvars/default/IC_Junior_finds_his_passion_in_writing_dark_fiction,_horror_stories.htm">Illinois College, 10/30/2014</a>
         </asp:Panel>
 
     </div>

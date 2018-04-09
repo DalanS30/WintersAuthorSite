@@ -130,3 +130,5 @@ T:\GitHub\WintersAuthorSite\PatrickAuthorSite\PatrickAuthorSite\bin\Microsoft.Ow
 T:\GitHub\WintersAuthorSite\PatrickAuthorSite\PatrickAuthorSite\bin\Microsoft.Owin.Security.OAuth.xml
 T:\GitHub\WintersAuthorSite\PatrickAuthorSite\PatrickAuthorSite\obj\Debug\PatrickAuthorSite.dll
 T:\GitHub\WintersAuthorSite\PatrickAuthorSite\PatrickAuthorSite\obj\Debug\PatrickAuthorSite.pdb
+T:\GitHub\WintersAuthorSite\PatrickAuthorSite\PatrickAuthorSite\obj\Debug\PatrickAuthorSite.csprojResolveAssemblyReference.cache
+T:\GitHub\WintersAuthorSite\PatrickAuthorSite\PatrickAuthorSite\obj\Debug\PatrickAuthorSite.csproj.CopyComplete
