@@ -1,29 +1,32 @@
 ﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="PatrickAuthorSite.SiteMaster" %>
 
 <!DOCTYPE html>
-
 <html lang="en">
 <head runat="server">
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title><%: Page.Title %> - Patrick Winters Author Website</title>
-
+    <title><%: Page.Title %> - Patrick Winters</title>
     <asp:PlaceHolder runat="server">
         <%: Scripts.Render("~/bundles/modernizr") %>
     </asp:PlaceHolder>
     <webopt:BundleReference runat="server" Path="~/Content/css" />
     <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
-
     <link href='https://fonts.googleapis.com/css?family=Slabo+27px' rel='stylesheet' type='text/css'>
     <link href="Styles/navBar.css" rel="stylesheet" />
     <link href="Styles/masterStyle.css" rel="stylesheet" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="apple-mobile-web-app-title" content="Patrick Winters">
+    <meta name="msapplication-TileColor" content="#b91d47">
+    <meta name="theme-color" content="#ffffff">
 </head>
 <body>
     <form runat="server">
         <asp:ScriptManager runat="server">
             <Scripts>
-                <%--To learn more about bundling scripts in ScriptManager see http://go.microsoft.com/fwlink/?LinkID=301884 --%>
-                <%--Framework Scripts--%>
                 <asp:ScriptReference Name="MsAjaxBundle" />
                 <asp:ScriptReference Name="jquery" />
                 <asp:ScriptReference Name="bootstrap" />
@@ -37,10 +40,8 @@
                 <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
                 <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
                 <asp:ScriptReference Name="WebFormsBundle" />
-                <%--Site Scripts--%>
             </Scripts>
         </asp:ScriptManager>
-
         <div id="custom-bootstrap-menu" class="navbar navbar-default navbar-fixed-top" role="navigation">
             <div class="container-fluid">
                 <div class="navbar-header">
@@ -63,15 +64,9 @@
                         <li>
                             <asp:LinkButton runat="server" Text="Previous Publications" OnClick="linkButton_Click"></asp:LinkButton>
                         </li>
-                        <%--<li>
-                            <asp:LinkButton runat="server" Text="News" OnClick="linkButton_Click"></asp:LinkButton>
-                        </li>--%>
                         <li>
                             <asp:LinkButton runat="server" Text="Contact" OnClick="linkButton_Click"></asp:LinkButton>
                         </li>
-                        <%--<li>
-                            <asp:LinkButton runat="server" Text="Donate" OnClick="linkButton_Click"></asp:LinkButton>
-                        </li>--%>
                         <li>
                             <asp:LinkButton runat="server" Text="Credits" OnClick="linkButton_Click"></asp:LinkButton>
                         </li>
@@ -79,54 +74,12 @@
                 </div>
             </div>
         </div>
-
         <div class="container body-content">
-            <asp:ContentPlaceHolder ID="MainContent" runat="server">
-            </asp:ContentPlaceHolder>
-
-            <%--<div id="socialMediaDiv">
-                &copy; <%: DateTime.Now.Year %> - Patrick Winters | 
-
-                <div class="btn-group dropup">
-                    <button type="button" class="btn btn-default btn-s dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        Click here to share this site!
-                        <span class="glyphicon glyphicon-arrow-up"></span>
-                        <span class="sr-only">Toggle Dropdown</span>
-                    </button>
-                    <ul class="dropdown-menu">
-                        <li>
-                            <div>
-                                <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-                                    <%--<a class="a2a_dd" href="https://www.addtoany.com/share?linkurl=http%3A%2F%2Fwintersauthor.azurewebsites.net%2F&amp;linkname=Patrick%20Winters%27%20Author%20Website"></a>
-                                    <!--<a class="a2a_button_facebook"></a>
-                                    <a class="a2a_button_twitter"></a>
-                                    <a class="a2a_button_google_plus"></a>
-                                    <a class="a2a_button_reddit"></a>
-                                    <a class="a2a_button_pinterest"></a>
-                                    <a class="a2a_button_google_gmail"></a>
-                                    <a class="a2a_button_email"></a>
-                                    <a class="a2a_button_telegram"></a>
-                                </div>
-                                <script>
-                                    var a2a_config = a2a_config || {};
-                                    a2a_config.linkname = "Patrick Winters' Author Website";
-                                    a2a_config.linkurl = "http://wintersauthor.azurewebsites.net/";
-                                </script>
-                                <script async src="https://static.addtoany.com/menu/page.js"></script>
-                            </div>
-                        </li>
-
-                    </ul>
-                </div>
-            </div> --%>
-            <hr />
+            <asp:ContentPlaceHolder ID="MainContent" runat="server" />
             <footer>
                 <p>&copy; <%: DateTime.Now.Year %> - Patrick Winters</p>
             </footer>
         </div>
     </form>
-    <%--<div class="footerDiv">
-        &copy; <%: DateTime.Now.Year %> - Patrick Winters
-    </div>--%>
 </body>
 </html>

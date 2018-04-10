@@ -1,13 +1,10 @@
 ﻿.styledPanel {
     margin-right: auto;
     margin-left: auto;
-    padding: 40px;
-    padding-top: 25px;
-    border: solid 8px;
-    border-color: #1a0000;
+    border: solid 5px;
+    border-color: #300000;
     background-color: #333333;
-    border-radius: 0px 75px;
-    width: 100%;
+    width: 80%;
 }
 
 .styledPanelSmall {
@@ -16,12 +13,20 @@
 }
 
 .styledHeader {
-    margin-right: auto;
-    margin-left: auto;
-    padding-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     text-align: center;
     font-weight: bold;
     font-size: 150%;
+    background-color: #300000;
+    width: 100%;
+}
+
+.styledContent {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .justified {

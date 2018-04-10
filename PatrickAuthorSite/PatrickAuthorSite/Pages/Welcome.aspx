@@ -2,10 +2,8 @@
 
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
-
     <link href='https://fonts.googleapis.com/css?family=Indie+Flower' rel='stylesheet' type='text/css'>
     <link href="../Styles/welcomeStyles.css" rel="stylesheet" />
-
     <div id="enterTextDiv">
         <p class="title">Patrick Winters</p>
         <p class="subTitle">Horror Extraordinaire</p>

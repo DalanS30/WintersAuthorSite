@@ -84,7 +84,7 @@ namespace PatrickAuthorSite
 
         protected void linkButton_Click(object sender, EventArgs e)
         {
-            Response.Redirect(String.Format("~/Pages/{0}.aspx", ((LinkButton)sender).Text));
+            Response.Redirect(string.Format("~/Pages/{0}.aspx", (sender as LinkButton).Text.Replace(" ", string.Empty)));
         }
     }
 
