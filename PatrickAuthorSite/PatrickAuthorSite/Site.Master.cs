@@ -86,6 +86,11 @@ namespace PatrickAuthorSite
         {
             Response.Redirect(string.Format("~/Pages/{0}.aspx", (sender as LinkButton).Text.Replace(" ", string.Empty)));
         }
+
+        protected void nabitRabbit_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("~/NabitRabbit/NabItRabbit.aspx");
+        }
     }
 
 }

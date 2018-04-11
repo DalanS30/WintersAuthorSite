@@ -174,10 +174,23 @@
     <Content Include="Content\Books\GravediggerSixFeetDeep-Numbered.pdf" />
     <Content Include="Content\Books\GravediggerSixFeetDeep.epub" />
     <Content Include="Content\Books\GravediggerSixFeetDeep.mobi" />
+    <None Include="Properties\PublishProfiles\KingdominoCalculator2 - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\KingdominoCalculator2 - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\wintersauthor - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\wintersauthor - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="mstile-150x150.png" />
+    <Content Include="NabItRabbit\Content\NabbitRabbit.css" />
+    <Content Include="NabItRabbit\NabItRabbit.aspx" />
+    <Content Include="NabItRabbit\Pictures\1.jpg" />
+    <Content Include="NabItRabbit\Pictures\2.jpg" />
+    <Content Include="NabItRabbit\Pictures\3.jpg" />
+    <Content Include="NabItRabbit\Pictures\4.jpg" />
+    <Content Include="NabItRabbit\Pictures\5.jpg" />
+    <Content Include="NabItRabbit\Pictures\6.jpg" />
+    <Content Include="NabItRabbit\Pictures\7.jpg" />
+    <Content Include="NabItRabbit\Pictures\8.jpg" />
+    <Content Include="NabItRabbit\Pictures\9.jpg" />
     <Content Include="Pages\Biography.aspx" />
     <Content Include="Pages\Contact.aspx" />
     <Content Include="Pages\Credits.aspx" />
@@ -350,6 +363,13 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\IdentityModels.cs" />
+    <Compile Include="NabItRabbit\NabItRabbit.aspx.cs">
+      <DependentUpon>NabItRabbit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="NabItRabbit\NabItRabbit.aspx.designer.cs">
+      <DependentUpon>NabItRabbit.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Pages\Biography.aspx.cs">
       <DependentUpon>Biography.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

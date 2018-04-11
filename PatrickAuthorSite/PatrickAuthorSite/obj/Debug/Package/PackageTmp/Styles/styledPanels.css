@@ -1,0 +1,35 @@
+﻿.styledPanel {
+    margin-right: auto;
+    margin-left: auto;
+    border: solid 5px;
+    border-color: #300000;
+    background-color: #333333;
+    width: 80%;
+}
+
+.styledPanelSmall {
+    font-size: 120%;
+    max-width: 1500px;
+}
+
+.styledHeader {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 150%;
+    background-color: #300000;
+    width: 100%;
+}
+
+.styledContent {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.justified {
+    text-align: justify;
+    text-justify: inter-word;
+}

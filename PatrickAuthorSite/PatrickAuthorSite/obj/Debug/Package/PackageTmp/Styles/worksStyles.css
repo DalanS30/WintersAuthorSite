@@ -1,0 +1,62 @@
+﻿.coverPhoto {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-height: 200px;
+    border: 4px solid white;
+}
+
+.interviewsAnchor {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.modal-body {
+	position: relative;
+	padding: 20px;
+    background-color: #1a0000;
+}
+
+.modal-footer {
+	padding: 19px 20px 20px;
+	text-align: right;
+	border-top: 1px solid #e5e5e5;
+	background-color: #333333;
+    margin-top: 0;
+}
+
+.modal-header {
+	min-height: 16.428571429px;
+	padding: 15px;
+	border-bottom: 1px solid #e5e5e5;
+	background-color: #333333;
+}
+
+.modal-header .close {
+	margin-top: -2px;
+	color: white;
+}
+
+.thumbnail {
+	display: inline-block;
+	display: normal; 
+	height: auto;
+	padding: 0px;
+	line-height: 1.428571429;
+	background-color: #ffffff;
+	border: 1px solid #dddddd;
+	border-radius: 4px;
+	-webkit-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pub-thumb {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    height: 275px;
+}

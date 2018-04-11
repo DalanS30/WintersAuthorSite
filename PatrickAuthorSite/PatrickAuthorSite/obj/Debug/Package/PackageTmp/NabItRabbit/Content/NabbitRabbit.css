@@ -1,0 +1,52 @@
+﻿* {
+    font-family: 'Gaegu', cursive !important;
+    color: white;
+    background-color: mediumseagreen;
+}
+
+body, form, #carousel-holder, #carousel, #carousel-inner {
+    width: 100%;
+    height: 100%;
+}
+
+.carousel-item {
+    width: 100%;
+    height: 100%;
+}
+
+.story-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    background-color: white;
+    border-radius: 25px;
+    margin-bottom: 20px;
+}
+
+.top-padding {
+    padding-top: 20px;
+}
+
+.story-panel {
+    padding-top: 20px;
+    width: 100%;
+}
+
+.center {
+    text-align: center;
+}
+
+.story-text {
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 1.3em;
+}
+
+.carousel-control-next, .carousel-control-prev {
+    position: fixed;
+    top: 0;
+    bottom: inherit;
+    margin-top: 150px;
+}

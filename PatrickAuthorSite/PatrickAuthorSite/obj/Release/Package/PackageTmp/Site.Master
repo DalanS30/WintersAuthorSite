@@ -65,6 +65,9 @@
                             <asp:LinkButton runat="server" Text="Previous Publications" OnClick="linkButton_Click"></asp:LinkButton>
                         </li>
                         <li>
+                            <asp:LinkButton runat="server" Text="Nab-It Rabbit" OnClick="nabitRabbit_Click"></asp:LinkButton>
+                        </li>
+                        <li>
                             <asp:LinkButton runat="server" Text="Contact" OnClick="linkButton_Click"></asp:LinkButton>
                         </li>
                         <li>

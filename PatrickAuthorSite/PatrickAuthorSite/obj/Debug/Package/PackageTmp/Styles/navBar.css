@@ -1,0 +1,65 @@
+﻿#custom-bootstrap-menu.navbar-default .navbar-brand {
+    color: rgba(217, 217, 217, 1);
+    padding-right: 30px;
+}
+
+#custom-bootstrap-menu.navbar-default {
+    font-size: 16px;
+    background-color: #150000;
+    border-width: 0px;
+    border-radius: 0px;
+}
+
+    #custom-bootstrap-menu.navbar-default .navbar-nav > li > a {
+        color: rgba(217, 217, 217, 1);
+        background-color: #150000;
+    }
+
+        #custom-bootstrap-menu.navbar-default .navbar-nav > li > a:hover,
+        #custom-bootstrap-menu.navbar-default .navbar-nav > li > a:focus {
+            color: rgba(217, 217, 217, 1);
+            background-color: #2A0606;
+        }
+
+    #custom-bootstrap-menu.navbar-default .navbar-nav > .active > a,
+    #custom-bootstrap-menu.navbar-default .navbar-nav > .active > a:hover,
+    #custom-bootstrap-menu.navbar-default .navbar-nav > .active > a:focus {
+        color: rgba(217, 217, 217, 1);
+        background-color: #150000;
+    }
+
+    #custom-bootstrap-menu.navbar-default .navbar-toggle {
+        border-color: #660000;
+    }
+
+        #custom-bootstrap-menu.navbar-default .navbar-toggle:hover,
+        #custom-bootstrap-menu.navbar-default .navbar-toggle:focus {
+            background-color: #660000;
+        }
+
+        #custom-bootstrap-menu.navbar-default .navbar-toggle .icon-bar {
+            background-color: #660000;
+        }
+
+        #custom-bootstrap-menu.navbar-default .navbar-toggle:hover .icon-bar,
+        #custom-bootstrap-menu.navbar-default .navbar-toggle:focus .icon-bar {
+            background-color: #4d0000;
+        }
+
+@media (min-width: 768px) and (max-width: 820px) {
+    .navbar-collapse.collapse {
+        display: none !important;
+    }
+
+        .navbar-collapse.collapse.in {
+            display: block !important;
+        }
+
+    .navbar-header .collapse, .navbar-toggle {
+        display: block !important;
+    }
+
+    .navbar-header {
+        float: none;
+    }
+}
