@@ -22,6 +22,15 @@
     <meta name="apple-mobile-web-app-title" content="Patrick Winters">
     <meta name="msapplication-TileColor" content="#b91d47">
     <meta name="theme-color" content="#ffffff">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-117489107-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-117489107-1');
+    </script>
 </head>
 <body>
     <form runat="server">
