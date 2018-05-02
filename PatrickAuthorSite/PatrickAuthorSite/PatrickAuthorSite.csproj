@@ -268,6 +268,7 @@
     <Content Include="Pictures\screwed.jpg" />
     <Content Include="Pictures\sepAgain.jpg" />
     <Content Include="Pictures\serial.jpg" />
+    <Content Include="Pictures\serial2.jpg" />
     <Content Include="Pictures\seventeeth.jpg" />
     <Content Include="Pictures\siren30.jpg" />
     <Content Include="Pictures\sirens.jpg" />
@@ -280,6 +281,7 @@
     <Content Include="Pictures\unoriginal.jpg" />
     <Content Include="Pictures\upset.JPG" />
     <Content Include="Pictures\violet.jpg" />
+    <Content Include="Pictures\weerd.jpg" />
     <Content Include="Pictures\weirdWest.jpg" />
     <Content Include="Pictures\welcome.jpg" />
     <Content Include="Pictures\zombie.jpg" />
