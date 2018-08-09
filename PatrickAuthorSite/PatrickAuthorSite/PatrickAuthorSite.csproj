@@ -174,8 +174,6 @@
     <Content Include="Content\Books\GravediggerSixFeetDeep-Numbered.pdf" />
     <Content Include="Content\Books\GravediggerSixFeetDeep.epub" />
     <Content Include="Content\Books\GravediggerSixFeetDeep.mobi" />
-    <None Include="Properties\PublishProfiles\KingdominoCalculator2 - FTP.pubxml" />
-    <None Include="Properties\PublishProfiles\KingdominoCalculator2 - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\wintersauthor - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\wintersauthor - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
@@ -195,6 +193,7 @@
     <Content Include="Pages\Contact.aspx" />
     <Content Include="Pages\Credits.aspx" />
     <Content Include="Pages\Donate.aspx" />
+    <Content Include="Pictures\drabble.jpg" />
     <Content Include="Pages\GravediggerCollection.aspx" />
     <Content Include="Pages\Home.aspx" />
     <Content Include="Pages\PreviousPublications.aspx" />
@@ -237,6 +236,7 @@
     <Content Include="Pictures\horrorTree.jpg" />
     <Content Include="Pictures\hug.jpg" />
     <Content Include="Pictures\icucow.jpg" />
+    <Content Include="Pictures\illini.jpg" />
     <Content Include="Pictures\int.jpg" />
     <Content Include="Pictures\jacoby.jpg" />
     <Content Include="Pictures\john.JPG" />
